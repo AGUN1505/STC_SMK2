@@ -1,0 +1,28 @@
+@media screen and (max-width: 768px) {
+    /* 
+       Kode CSS di dalam sini HANYA akan berjalan 
+       jika lebar layar KURANG DARI ATAU SAMA DENGAN 768px (HP/Tablet)
+    */
+    body {
+        background-color: lightblue;
+    }
+
+    .h1{
+        font-size: 20rem;
+    }
+}
+@media screen and (max-width: 1080px) {
+    /* 
+       Kode CSS di dalam sini HANYA akan berjalan 
+       jika lebar layar KURANG DARI ATAU SAMA DENGAN 1080px (Laptop)
+    */
+    body {
+        background-color: lightblue;
+    }
+
+    .h1{
+        font-size: 24rem;
+    }
+}
+
+
